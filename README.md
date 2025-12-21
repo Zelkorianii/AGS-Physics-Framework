@@ -34,6 +34,12 @@ Numerical Libraries: NumPy for vector operations, SciPy for ODE integration and 
 Physics Framework: Standard Slow-Roll Inflationary Theory in Reduced Planck Units ($M_{Pl} = 1$).
 
 -- How to Run --
+
+MUST HAVE THESE LIBRARIES INSTALLED! :: numpy, scipy.
+Bash command line:
+pip install numpy
+pip install scipy
+
 Derive Constants: Run AGSInverter.py to find the optimized $C_{AGS}$ and $\alpha_{NL}$ constants for a specific field exit value ($\phi_k$).
 
 Simulate Universe: Plug those derived constants into AGSCMB.py to run a full dynamic simulation and verify the e-fold accumulation ($N \ge 60$).
