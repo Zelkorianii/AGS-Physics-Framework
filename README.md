@@ -47,3 +47,5 @@ Derive Constants: Run AGSInverter.py to find the optimized $C_{AGS}$ and $\alpha
 Simulate Universe: Plug those derived constants into AGSCMB.py to run a full dynamic simulation and verify the e-fold accumulation ($N \ge 60$).
 Research ImplicationsThis framework demonstrates that the AGS Potential can successfully produce a "Flat" universe with the correct spectral tilt,
 resolving the fine-tuning problem by deriving constants directly from observational constraints.
+
+Site as: 10.5281/zenodo.18032135
