@@ -1,5 +1,7 @@
 AGS (Analog Ground State) Physics Framework: Cosmological Inverse Solvers
+
 Project Overview
+
 The AGS Physics Framework is a suite of numerical tools designed to bridge the gap between theoretical high-energy physics and observational cosmology.
 This framework specializes in the AGS Potential—a scalar field model designed to explain cosmic inflation while remaining consistent with
 Cosmic Microwave Background (CMB) data from the Planck Satellite.
