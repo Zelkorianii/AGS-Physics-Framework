@@ -49,3 +49,4 @@ Research ImplicationsThis framework demonstrates that the AGS Potential can succ
 resolving the fine-tuning problem by deriving constants directly from observational constraints.
 
 Site as: 10.5281/zenodo.18032135
+Site as: 10.5281/zenodo.18049677
